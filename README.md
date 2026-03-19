@@ -1,36 +1,66 @@
-<h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
-<h3 align="center">A passionate learner</h3>
+<h1 align="center">Hi there, I'm Karim Mohamed 👋</h1>
+<h3 align="center">Software Engineering Student | A passionate learner</h3>
 
-- 🌱 I’m currently learning **RUST**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
-
-- 💬 Ask me about **Cybersecurity Engineering & Software engineering**
-
-- 📫 How to reach me **karim.mohamed@epitech.eu**
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-mohamed-74290a259/)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kuawhrime&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kuawhrime&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuawhrime&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/karim-mohamed-74290a259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:karim.mohamed@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Kuawhrime" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kuawhrime&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🧑‍💻 About Me
+
+I am a Software Engineering student at **EPITECH** with a strong passion for **Cybersecurity** and **Systems Programming**. I enjoy building robust software solutions and exploring the intricacies of low-level programming.
+
+- 🎓 Currently pursuing my degree at **EPITECH (European Institute of Technology)**.
+- 🦀 Currently diving deep into **Rust** to master systems safety and performance.
+- 🔍 Actively exploring **Reverse Engineering** and binary analysis with IDA Pro.
+- 🔐 Interests span from **DevSecOps** and infrastructure automation to binary exploitation.
+- 💬 Feel free to ask me about **Cybersecurity Engineering, Software Architecture, or DevOps**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Cybersecurity & Reverse Engineering**
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-800000?style=flat-square&logo=ida&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-F28C28?style=flat-square&logo=ghidra&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Monitoring & Design**
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuawhrime&bg_color=1a1b27&color=bf91f3&line=5294e2&point=eecd3f&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuawhrime&theme=tokyonight&hide_border=true&layout=compact&count_private=true" alt="Top Languages"/>
+</p>
