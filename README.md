@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
 <h3 align="center">A passionate learner</h3>
 
-- 🔭 I’m currently working on **nothing**
-
-- 🌱 I’m currently learning **AWS, GCP, AZURE**
+- 🌱 I’m currently learning **RUST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
 
-- 💬 Ask me about **Cybersecurity, DevOps and development**
+- 💬 Ask me about **Cybersecurity Engineering & Software engineering**
 
 - 📫 How to reach me **karim.mohamed@epitech.eu**
 
